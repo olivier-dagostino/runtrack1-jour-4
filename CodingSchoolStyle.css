@@ -1,0 +1,25 @@
+.papa{
+    display: flex;
+    justify-self: space-between;
+    flex-direction: row-reverse;
+}
+.h1,h2{
+    text-align: center;
+}
+.anan{
+    text-align: center;
+}
+body{
+    background-color: #2751AC98;
+}
+header{
+    background-color: #5358F0;
+}
+.liste{
+    background-color: rgb(208, 228, 235);
+    border-radius: 20px;
+    padding-left: 2%;
+}
+.texte1{
+    margin-left: 1%;
+}
